@@ -43,6 +43,7 @@ public abstract class Type
 
 	public void ShowDetails()
 	{
+
 		System.out.println("These are my account details");
 	}
 }
