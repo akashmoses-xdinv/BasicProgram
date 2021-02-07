@@ -40,6 +40,11 @@ public abstract class Type
 
 		System.out.println("Balance : "+balance);
 	}
+
+	public void ShowDetails()
+	{
+		System.out.println("These are my account details");
+	}
 }
 
 

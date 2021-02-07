@@ -8,6 +8,7 @@ public class Bank {
 		CurrentAccount c = new CurrentAccount(1234,"Moses",2500,"Withdrawal");
 		c.transaction();
 		f.transaction();
+		System.out.println("Details");
 
 	}
 
